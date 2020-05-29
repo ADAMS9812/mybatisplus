@@ -3,6 +3,7 @@ package com.baomidou.mybatisplus.samples.quickstart;
 import com.baomidou.mybatisplus.samples.quickstart.entity.User;
 import com.baomidou.mybatisplus.samples.quickstart.mapper.UserMapper;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import javax.annotation.Resource;
