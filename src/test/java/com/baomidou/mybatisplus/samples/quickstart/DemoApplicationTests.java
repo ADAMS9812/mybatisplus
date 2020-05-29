@@ -9,6 +9,10 @@ import javax.annotation.Resource;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Springboot整合MybatisPlus进行CRUD的操作
+ */
+
 @SpringBootTest
 public class DemoApplicationTests {
 
